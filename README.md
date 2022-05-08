@@ -1,1 +1,2 @@
-# gass nguengg
+# JANGAN DISEBAR METHODNYA YA KONTOL
+
