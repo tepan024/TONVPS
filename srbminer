@@ -1,0 +1,2 @@
+SRBMiner-MULTI.exe --disable-cpu --algorithm blake3_alephium --pool sg.alephium.herominers.com:1199 --wallet 1HQkv6GiNoUH5NTeUbBgPMekghz1hp6QFsdgr3uFuuoxq --password x
+pause
